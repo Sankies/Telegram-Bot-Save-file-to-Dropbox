@@ -1,8 +1,12 @@
-# summerintern2019_challenge_cuhk_developer_TSZHEI_TUNGLAM
+# Summerintern2019_challenge_cuhk_developer_TSZHEI_TUNGLAM
 
 Prototype description
 
-This project provides a solution to automatically saving a massive number of photos from multiple Telegram user to a single lender account.
+This project provides a solution to automatically saving a massive number of photos from multiple Telegram user to a single lender account. It is useful for users who need to recieve massive number of image message in telegram and would like to autometically save them into Dropbox folder.
+
+Developer:
+CHOW TSZE HEI
+HO TUNG LAM
 
 Video demo: https://youtu.be/w0cT9EcwoDE
 
